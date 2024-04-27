@@ -1,0 +1,54 @@
+{
+  "ClickableList": [
+    {
+      "Name": "IsntTheVid",
+      "Description": "Huh? This isn’t the video I clicked on.",
+      "PickUpVideo": "TrappedInsideYoutube",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "WhatIsThis",
+      "Description": "What kind of video is this?",
+      "PickUpVideo": "NotAVideo",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "NeedSleep",
+      "Description": "… I think I need to get some sleep.",
+      "PickUpVideo": "ThisIsReal",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "WhyNot",
+      "Description": "You know, why not. Worst comes to worst it’s just a really weird dream.",
+      "PickUpVideo": "ThankYou",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "Name": "TempEnd",
+      "Description": "REMOVE AFTER TESTING, REPLACE WITH TRANSITION VIDEOS",
+      "PickUpVideo": "TEMP_END_REMOVE_AFTER_TEST",
+      "IsNavigation": true,
+      "RelativeScreenPosition": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ]
+}

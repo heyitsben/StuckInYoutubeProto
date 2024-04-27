@@ -1,0 +1,47 @@
+{
+  "VideoList": [
+    {
+      "Name": "HELP",
+      "NavigationTargets": [
+        {
+          "Name": "IsntTheVid"
+        }
+      ]
+    },
+    {
+      "Name": "TrappedInsideYoutube",
+      "NavigationTargets": [
+        {
+          "Name": "WhatIsThis"
+        }
+      ]
+    },
+    {
+      "Name": "NotAVideo",
+      "NavigationTargets": [
+        {
+          "Name": "NeedSleep"
+        }
+      ]
+    },
+    {
+      "Name": "ThisIsReal",
+      "NavigationTargets": [
+        {
+          "Name": "WhyNot"
+        }
+      ]
+    },
+    {
+      "Name": "ThankYou",
+      "NavigationTargets": [
+        {
+          "Name": "TempEnd"
+        }
+      ]
+    },
+    {
+      "Name": "TEMP_END_REMOVE_AFTER_TEST"
+    }
+  ]
+}
