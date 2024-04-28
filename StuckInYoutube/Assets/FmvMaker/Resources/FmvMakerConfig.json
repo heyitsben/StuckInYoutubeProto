@@ -1,6 +1,6 @@
 {
   "AspectRatio": "16:9",
-  "VideoSourceType": "INTERNAL",
+  "VideoSourceType": "ONLINE",
   "ImageSourceType": "INTERNAL",
   "LocalFilePath": "C:\\Users\\benne\\OneDrive\\Documents\\GitHub\\StuckInYoutubeProto\\StuckInYoutube"
 }

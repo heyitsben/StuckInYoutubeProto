@@ -352,7 +352,7 @@ MonoBehaviour:
   loadDebugData: 1
   videoModelData: {fileID: 4900000, guid: 37d4d45688eef02489f6c1c859c7d1de, type: 3}
   clickableModelData: {fileID: 4900000, guid: 126509ed42fe0ff489be3c340eef7139, type: 3}
-  onlineVideoSourceMappingData: {fileID: 0}
+  onlineVideoSourceMappingData: {fileID: 4900000, guid: 93a858c6a8931ed47a1f160597711821, type: 3}
 --- !u!1 &736910559
 GameObject:
   m_ObjectHideFlags: 0
