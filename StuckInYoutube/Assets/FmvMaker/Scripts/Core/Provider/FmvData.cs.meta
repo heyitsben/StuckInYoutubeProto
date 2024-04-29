@@ -3,7 +3,10 @@ guid: e7d63537cad47a3499e1c4ff3a386b10
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - videoModelData: {instanceID: 0}
+  - clickableModelData: {instanceID: 0}
+  - onlineVideoSourceMappingData: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

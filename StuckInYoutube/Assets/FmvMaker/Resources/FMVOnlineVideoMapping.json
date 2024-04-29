@@ -2,27 +2,27 @@
   "OnlineVideoSourceMappingList": [
     {
       "Name": "HELP",
-      "Link": "https://youtu.be/wSN3Ec0qFQQ"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/HELP.mp4?raw=true"
     },
     {
       "Name": "TrappedInsideYoutube",
-      "Link": "https://youtu.be/X6kN7wWdg6E"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/TrappedInsideYoutube.mp4?raw=true"
     },
     {
       "Name": "NotAVideo",
-      "Link": "https://youtu.be/QrMHUvAF1Ro"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/NotAVideo.mp4?raw=true"
     },
     {
       "Name": "ThisIsReal",
-      "Link": "https://youtu.be/S7oXxtqRgB0"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/ThisIsReal.mp4?raw=true"
     },
     {
       "Name": "ThankYou",
-      "Link": "https://youtu.be/5cykEs1obcY"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/ThankYou.mp4?raw=true"
     },
     {
       "Name": "TEMP_END_REMOVE_AFTER_TEST",
-      "Link": "https://youtu.be/zVSb8sVkwEU"
+      "Link": "https://github.com/heyitsben/StuckInYoutubeProto/blob/main/StuckInYoutube/Assets/FmvMaker/Resources/FmvMakerVideos/TEMP_END_REMOVE_AFTER_TEST.mp4?raw=true"
     }
   ]
 }
